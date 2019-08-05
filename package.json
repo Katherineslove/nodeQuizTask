@@ -1,0 +1,23 @@
+{
+  "name": "nodejsintro",
+  "version": "1.0.0",
+  "description": "introduction to node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/19WDWU02/Node-JS-Introduction.git"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "Richard Hpa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/19WDWU02/Node-JS-Introduction/issues"
+  },
+  "homepage": "https://github.com/19WDWU02/Node-JS-Introduction#readme"
+}
