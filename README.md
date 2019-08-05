@@ -20,4 +20,3 @@ This quiz needs to
 4. Tell them what was the correct answers for the questions they got wrong
 5. Output a .txt file with their name as the filename which has all their results on it
 6. If someone with the same name does the quiz, we want a different file to be created rather than the other persons file be remove.
-# nodeQuizTask
